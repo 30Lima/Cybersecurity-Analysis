@@ -94,5 +94,12 @@ Como próximos passos, pretendo aprofundar:
 
 ---
 
-📊 Exemplos de Visualizações
+📊 Visualizações da análise
+<img width="1095" height="543" alt="image" src="https://github.com/user-attachments/assets/fdd3c03f-759e-4c74-af20-54477aaee862" />
+<br>
+<img width="1096" height="543" alt="image" src="https://github.com/user-attachments/assets/5891c251-fc0c-4142-8b53-7964f83154ac" />
+
+
+
+
 
