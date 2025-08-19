@@ -45,7 +45,7 @@ O objetivo foi **identificar padrões, tendências e setores mais visados**, al�
 ## 📈 Principais Insights
 
 - Os ataques mais comuns identificados foram:  
-  1. **Phishing** – Enganar usuários para obter informações confidenciais.  
+  1. **Phishing** – Enganar usuários para obter informações confidenciais. 
   2. **Ransomware** – Bloquear ou criptografar dados exigindo resgate.  
   3. **Man-in-the-Middle (MitM)** – Interceptação de comunicação entre duas partes.  
   4. **DDoS** – Sobrecarga de servidores, tornando serviços indisponíveis.  
