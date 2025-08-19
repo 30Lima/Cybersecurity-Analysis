@@ -83,3 +83,16 @@ Como próximos passos, pretendo aprofundar:
 1. Clone este repositório:
    ```bash
    git clone https://github.com/30Lima/Cybersecurity-Analysis.git
+
+2. Navegue até o diretório:
+   ```bash
+   cd Cybersecurity-Analysis
+   
+3. Instale as dependências:
+   ```bash
+   pip install -r requirements.txt
+
+---
+
+📊 Exemplos de Visualizações
+
